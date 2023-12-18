@@ -1,0 +1,10 @@
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.csproj.AssemblyReference.cache
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.OrionStarProject.resources
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.Properties.Resources.resources
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.csproj.GenerateResource.cache
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.csproj.CoreCompileInputs.cache
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\bin\Debug\OrionStarProject.exe.config
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\bin\Debug\OrionStarProject.exe
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\bin\Debug\OrionStarProject.pdb
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.exe
+C:\Users\schmi\Desktop\VisualC#\OrionStarProject\OrionStarProject\obj\Debug\OrionStarProject.pdb
